@@ -1,0 +1,2 @@
+rootProject.name='Custom AutoComplete Example'
+include ':app'
