@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exit Dialog Box</string>
+    <string name="text">Hello \
+        Welcome to Coding World!</string>
+</resources>
