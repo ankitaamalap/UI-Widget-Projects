@@ -1,0 +1,2 @@
+rootProject.name='How to Save an ArrayList of Custom Objects to SharedPreferences with Gson'
+include ':app'
