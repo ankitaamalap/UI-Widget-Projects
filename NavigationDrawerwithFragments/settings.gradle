@@ -1,0 +1,2 @@
+rootProject.name='Navigation Drawer with Fragments'
+include ':app'
