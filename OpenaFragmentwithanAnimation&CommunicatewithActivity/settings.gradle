@@ -1,0 +1,2 @@
+rootProject.name='Open a Fragment with an Animation & Communicate with Activity'
+include ':app'
